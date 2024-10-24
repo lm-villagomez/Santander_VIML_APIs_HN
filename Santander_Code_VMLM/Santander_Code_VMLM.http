@@ -1,0 +1,6 @@
+@Santander_Code_VMLM_HostAddress = http://localhost:5153
+
+GET {{Santander_Code_VMLM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
